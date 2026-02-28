@@ -1,6 +1,4 @@
 title: Google Data Analytics Notes
-description: Structured learning notes from the Google Data Analytics Professional Certificate
-
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+description: Structured learning documentation from the Google Data Analytics Professional Certificate
+theme: minima
+markdown: kramdown

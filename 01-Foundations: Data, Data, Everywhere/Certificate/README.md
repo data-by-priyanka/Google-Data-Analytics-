@@ -1,5 +1,11 @@
-## Foundation: Data, Data, Everywhere Certificate
+## Foundation: Data, Data, Everywhere – Certificate
 
- ![Certificate](Foundations.png)
+<p align="center">
+  <img src="Foundations.png" width="800">
+</p>
 
-[Verify Credential](https://coursera.org/share/2192fa6bb7e4cb1a470f65aee388e5d8)
+<p align="center">
+  <a href="https://coursera.org/share/2192fa6bb7e4cb1a470f65aee388e5d8" target="_blank">
+    🔗 Verify Credential
+  </a>
+</p>

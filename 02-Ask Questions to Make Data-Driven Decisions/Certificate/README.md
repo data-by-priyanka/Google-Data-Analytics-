@@ -1,7 +1,7 @@
 <h2 align="center">Ask Questions to Make Data-Driven Decisions – Certificate</h2>
 
 <p align="center">
-  <img src="Ask Questions.pdf" width="800">
+  <img src="Ask_Questions.png" width="800">
 </p>
 
 <p align="center">
